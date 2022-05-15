@@ -19,6 +19,7 @@ http://localhost:8080/earthquakes?countryName=California&countOfPastDays=1
 for entering the inputs countryName and countOfPastDays can be changed as desired
 
 response:
+
 ![image](https://user-images.githubusercontent.com/81990759/168482723-8bd34f2f-186d-40a6-a746-999daad4dee1.png)
 
 
